@@ -28,7 +28,7 @@ html{
 
 }
 h2{
-    margin-left: 650px;
+    margin-left: 700px;
     color: white;
     animation: colorchnage 2s  alternate infinite;
 }
@@ -42,4 +42,28 @@ h2{
 }
 h2:hover{
     color: blue;
+}
+ul li{
+   display: inline-block;
+   margin: 16px;
+   padding-left: 200px;
+   
+}
+ul li a{
+    background-color:white ;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    animation: menu 150ms alternate infinite;
+}
+ul li a :hover{
+    padding: 16px;
+}
+@keyframes menu {
+    from{
+       background-color: rgb(254, 1, 1);
+    }to{
+        background-color:  rgb(37, 4, 205);
+    }
+    
 }
