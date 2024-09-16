@@ -27,4 +27,19 @@ html{
     flex-direction: column;
 
 }
-
+h2{
+    margin-left: 650px;
+    color: white;
+    animation: colorchnage 2s  alternate infinite;
+}
+@keyframes colorchnage {
+    from{
+        color: white;
+    }
+    to{
+        color: blue;
+    }
+}
+h2:hover{
+    color: blue;
+}
