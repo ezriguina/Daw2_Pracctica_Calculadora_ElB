@@ -94,7 +94,14 @@ nav ul li a{
     }
     
 }
-
+ .flex-container{
+   /* background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;*/
+ }
 .content{
     color: white;
     height: 50vh;
@@ -111,10 +118,12 @@ nav ul li a{
     background-color: black;
     height: 20vh;
 }
-
-aside{
+#right{
     background-color: rgb(52, 105, 203);
     height: 50vh;
     width: 100px;
     padding-left: 50rem;
+}
+#center{
+    background-color: white;
 }
