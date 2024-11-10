@@ -30,7 +30,7 @@ html{
 
 #calculadora{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: rgb(251, 244, 244);
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
@@ -57,7 +57,7 @@ button{
     border-radius: 30px;
     border: none;
     background-color: gray;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
