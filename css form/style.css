@@ -85,24 +85,3 @@ button:active {
     background-color: rgb(4, 100, 145);
 }
 
-@media (max-width: 768px) {
-    #calculadora {
-        max-width: 100%;
-        padding: 5px;
-    }
-
-    #Pantalla {
-        font-size: 2.5rem;
-        padding: 10px;
-    }
-
-    #Operadores {
-        gap: 5px;
-    }
-
-    button {
-        padding: 10px;
-        font-size: 1.5rem;
-        border-radius: 15px;
-    }
-}
