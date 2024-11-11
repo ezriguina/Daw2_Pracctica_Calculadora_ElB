@@ -117,7 +117,5 @@ button:active {
         font-size: 2rem;
     }
 
-    #Operadores {
-        grid-template-columns: repeat(3, 1fr);
-    }
+    
 }
