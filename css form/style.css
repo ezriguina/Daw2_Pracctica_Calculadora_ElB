@@ -83,7 +83,7 @@ button:active {
     background-color: rgb(4, 100, 145);
 }
 
-/* Media Query para pantallas pequeñas */
+
 @media (max-width: 600px) {
     #Pantalla {
         font-size: 2.5rem;
